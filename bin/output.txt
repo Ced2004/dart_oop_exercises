@@ -1,0 +1,22 @@
+=== NTC JEEPNEY FLEET MANAGEMENT SYSTEM ===
+
+--- SIMULATING DAILY OPERATIONS ---
+10 passengers boarded NTC-123 (Quiapo - Espana - SM San Lazaro). Fare collected: ₱130.00
+15 passengers boarded NTC-999 (Cubao - Divisoria). Fare collected: ₱225.00
+5 passengers boarded NTC-123 (Quiapo - Espana - SM San Lazaro). Fare collected: ₱65.00
+
+--- FLEET STATUS SUMMARY (LOOPING THROUGH LIST) ---
+----------------------------------
+Jeepney Plate: NTC-123
+Route: Quiapo - Espana - SM San Lazaro
+Capacity: 18 passengers
+Total Collected Fare: ₱195.00
+----------------------------------
+----------------------------------
+Jeepney Plate: NTC-999
+Route: Cubao - Divisoria
+Capacity: 22 passengers
+Total Collected Fare: ₱225.00
+----------------------------------
+TOTAL EARNINGS FOR ALL JEEPNEYS: ₱420.00
+============================================
